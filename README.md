@@ -1,0 +1,1 @@
+Abstractclass o/p -  
