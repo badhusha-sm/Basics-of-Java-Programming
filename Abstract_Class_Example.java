@@ -54,7 +54,6 @@ class IA2 extends Test{
 	   return TotalCalculate()/3.0;
    }
 }
-/*o/p link - https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202025-05-02%2021-54-01.png
-	*/
+
 
 
