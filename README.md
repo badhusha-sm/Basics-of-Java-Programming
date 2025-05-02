@@ -6,3 +6,5 @@ https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%2
 
 Interface o/p link-
 https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202025-05-01%2012-19-02.png
+
+Abstract_Class_Example o/p link  - 
