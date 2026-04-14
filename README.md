@@ -11,4 +11,5 @@ Abstract_Class_Example o/p link  - https://github.com/badhusha-sm/Basics-of-Java
 
 AreaRectTria o/p link - https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202025-05-02%2022-33-33.png
 
-Empolyee Input and output Screenshot from 2026-04-14 13-55-17.png
+Empolyee Input and output
+
