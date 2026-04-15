@@ -13,3 +13,4 @@ AreaRectTria o/p link - https://github.com/badhusha-sm/Basics-of-Java-Programmin
 
 Empolyee Input and output  https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202026-04-14%2013-55-17.png
 
+Wrapper Class : 
