@@ -15,3 +15,5 @@ Empolyee Input and output  https://github.com/badhusha-sm/Basics-of-Java-Program
 
 Wrapper Class : https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202026-04-15%2009-26-12.png
 
+Volume_Cuboid :https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202026-04-16%2010-28-27.png
+
