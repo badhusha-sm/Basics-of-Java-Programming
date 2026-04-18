@@ -17,3 +17,4 @@ Wrapper Class : https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/m
 
 Volume_Cuboid :https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202026-04-16%2010-28-27.png
 
+InterfaceExample o/p https://github.com/badhusha-sm/Basics-of-Java-Programming/blob/main/Screenshot%20from%202026-04-18%2012-16-45.png
